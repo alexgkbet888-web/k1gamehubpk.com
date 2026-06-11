@@ -1,0 +1,18 @@
+type,keyword,target_url,intent,priority
+core,"k1 game kaise download kare","/","homepage",1
+"urdu","k1 game download kaise kare","/guides/download-kaise-kare-android/","urdu",1
+"urdu","k1 game login kaise kare","/guides/login-kaise-kare/","urdu",1
+"urdu","k1 game se paisa kaise nikale","/guides/paisa-kaise-nikale/","urdu",1
+"urdu","k1 game otp masla","/guides/otp-masla/","urdu",1
+"urdu","k1 game real hai ya nahi","/guides/real-hai-ya-nahi/","urdu",2
+"payment","k1 game jazzcash urdu","/guides/jazzcash-guide-urdu/","payment",2
+"payment","k1 game easypaisa urdu","/guides/easypaisa-guide-urdu/","payment",2
+"support","k1 game app open nahi ho rahi","/guides/app-open-nahi-ho-rahi/","support",2
+"tutorial","k1 game account banana","/guides/account-banana/","tutorial",3
+"safety","k1 game download safe hai","/guides/download-safe-hai/","safety",3
+"faq","k1 game masail faq","/guides/masail-faq-roman-urdu/","faq",3
+"freshness","k1 game urdu notes","/guides/weekly-urdu-notes/","freshness",3
+hub,"Download Kaise Kare","/download-kaise-kare/","hub",1
+hub,"Login Kaise Kare","/login-kaise-kare/","hub",2
+hub,"Paisa Guide","/paisa-guide/","hub",3
+hub,"Masail FAQ","/masail-faq/","hub",4
