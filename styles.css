@@ -1,4 +1,4 @@
-@media(max-width:860px){
+﻿@media(max-width:860px){
   .m-screen{padding-left:18px;padding-right:18px;align-items:stretch;overflow:hidden}
   .m-screen>*{max-width:100%}
   .mobile-version h1,.mobile-version p,.m-label{width:100%;max-width:calc(100vw - 36px)}
@@ -31,5 +31,12 @@ body{margin:0;background:#f0fdf4;color:#052e16;font-family:Arial,sans-serif}.loc
   .m-register{width:100%!important;max-width:100%!important;margin-left:0!important;margin-right:0!important;white-space:normal!important}
   .m-actions{width:100%!important;max-width:100%!important;min-width:0!important;gap:10px!important}
   .m-actions a{min-width:0!important;max-width:100%!important;overflow-wrap:break-word!important}
+}
+/* mobile-final-readable-width-20260614 */
+@media(max-width:860px){
+  .mobile-version h1,.mobile-version p,.m-label,.m-register,.m-actions{max-width:min(338px,calc(100vw - 52px))!important}
+  .mobile-version p{font-size:15.5px!important;line-height:1.58!important}
+  .m-register{width:min(338px,calc(100vw - 52px))!important}
+  .m-actions{width:min(338px,calc(100vw - 52px))!important}
 }
 
