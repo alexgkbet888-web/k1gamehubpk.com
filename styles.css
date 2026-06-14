@@ -1,3 +1,14 @@
+@media(max-width:860px){
+  .m-screen{padding-left:18px;padding-right:18px;align-items:stretch;overflow:hidden}
+  .m-screen>*{max-width:100%}
+  .mobile-version h1,.mobile-version p,.m-label{width:100%;max-width:calc(100vw - 36px)}
+  .m-register{width:100%;max-width:calc(100vw - 36px);margin-left:0;margin-right:0}
+  .m-actions{width:100%;max-width:calc(100vw - 36px)}
+  .m-actions a{display:block}
+  .m-compare .m-actions{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .m-wallet .m-actions,.m-agent .m-actions{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+
 *,*::before,*::after{box-sizing:border-box}
 @media(max-width:860px){
   .mobile-version,.m-screen{width:100%;max-width:100%;min-width:0}
