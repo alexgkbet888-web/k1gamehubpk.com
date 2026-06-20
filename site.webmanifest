@@ -1,0 +1,13 @@
+{
+    "name":  "K1 Urdu Help",
+    "short_name":  "K1 Urdu Help",
+    "start_url":  "/",
+    "scope":  "/",
+    "display":  "standalone",
+    "background_color":  "#ffffff",
+    "theme_color":  "#0f172a",
+    "description":  "Roman Urdu K1 Game help center for Pakistan users, with simple how-to guides, login help, payment notes, common problem answers and safe use reminders.",
+    "icons":  [
+
+              ]
+}
