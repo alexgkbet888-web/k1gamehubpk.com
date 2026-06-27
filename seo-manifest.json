@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "k1gamehubpk.com",
+  "brand": "K1 Game Hub PK",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "K1-P1",
+  "owner": "alexgkbet888-web",
+  "deployUrl": "https://k1gamehubpk.com/",
+  "siteType": "authority",
+  "positioning": "Roman Urdu K1 help center for Pakistan mobile users",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "K1 game kaise use kare",
+    "K1 game Pakistan Roman Urdu"
+  ],
+  "secondaryKeywords": [
+    "K1 game download kaise kare",
+    "K1 game login kaise kare",
+    "K1 game se paisa kaise nikale",
+    "K1 OTP masla"
+  ],
+  "technical": {
+    "sitemapUrl": "https://k1gamehubpk.com/sitemap.xml",
+    "robotsUrl": "https://k1gamehubpk.com/robots.txt",
+    "feedUrl": "https://k1gamehubpk.com/feed.xml",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:k1gamehubpk.com",
+    "connected": true
+  },
+  "monitoring": {
+    "source": "local-generated",
+    "generatedAt": "2026-06-28",
+    "evidencePolicy": "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+  }
+}
