@@ -1,0 +1,2 @@
+K1 Roman Urdu Hub meta SERP propagation refresh 2026-07-03 08:34 JST
+Remote main metadata already verified; this file only triggers a fresh GitHub Pages build.
